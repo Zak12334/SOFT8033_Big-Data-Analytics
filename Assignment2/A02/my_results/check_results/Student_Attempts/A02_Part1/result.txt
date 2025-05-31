@@ -1,0 +1,5 @@
+Row(start_time='2019/05/01 08:22:44', stop_time='2019/05/01 08:46:24', trip_duration=1420, start_station_id=508, start_station_name='W 46 St & 11 Ave', start_station_latitude=40.76341247558594, start_station_longitude=-73.99667358398438, stop_station_id=327, stop_station_name='Vesey Pl & River Terrace', stop_station_latitude=40.71533966064453, stop_station_longitude=-74.01658630371094, bike_id=32275, user_type='Subscriber', birth_year=1984, gender=1, trip_id=1000)
+
+
+
+--- Completed ---
